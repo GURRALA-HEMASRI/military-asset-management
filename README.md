@@ -7,10 +7,10 @@ A modern full-stack Military Asset Management System developed using React, Node
 ## Live Demo
 
 ### Frontend (Vercel)
-[Military Asset Management Live App](https://military-asset-management-alpha.vercel.app/?utm_source=chatgpt.com)
+[Military Asset Management Live App](https://military-asset-management-alpha.vercel.app/)
 
 ### Backend (Render)
-[Backend API](https://military-assets-backend-f3mg.onrender.com?utm_source=chatgpt.com)
+[Backend API](https://military-assets-backend-f3mg.onrender.com/)
 
 ---
 ## Preview

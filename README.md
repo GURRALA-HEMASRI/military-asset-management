@@ -13,13 +13,13 @@ A modern full-stack Military Asset Management System developed using React, Node
 [Backend API](https://military-assets-backend-f3mg.onrender.com?utm_source=chatgpt.com)
 
 ---
-##Preview
+###Preview
 
 ### Loin Page
 ![image alt](https://github.com/GURRALA-HEMASRI/military-asset-management/blob/5f83df7ab0a217d3f31f9e3acbf449223b684ad5/Screenshot%202026-05-13%20232928.png)
 
-
-
+### Dashboard
+![image alt](https://github.com/GURRALA-HEMASRI/military-asset-management/blob/c8ce6d7c29806ba92eacb40921c00b143cc5b090/Screenshot%202026-05-13%20232733.png)
 
 
 

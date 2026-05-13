@@ -24,6 +24,11 @@ A modern full-stack Military Asset Management System developed using React, Node
 ### Purchases
 ![image alt](https://github.com/GURRALA-HEMASRI/military-asset-management/blob/2c0759af88fa07b666585403861fe6a485657190/Screenshot%202026-05-13%20232804.png)
 
+### Transfers
+![image alt](https://github.com/GURRALA-HEMASRI/military-asset-management/blob/cdabe8d6d5202a3f98a0c79e066f724cab2e61a6/Screenshot%202026-05-13%20232818.png)
+
+
+
 
 # Project Overview
 
